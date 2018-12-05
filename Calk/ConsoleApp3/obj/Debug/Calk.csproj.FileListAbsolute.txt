@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\obj\Debug\Calk.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\obj\Debug\Calk.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\obj\Debug\Calk.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\bin\Debug\ConsoleApp3.dll.config
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\bin\Debug\ConsoleApp3.dll
+C:\Users\Administrator\source\repos\Calk\ConsoleApp3\obj\Debug\ConsoleApp3.dll
